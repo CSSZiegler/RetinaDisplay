@@ -1,4 +1,4 @@
-Retinal Display
+Retina Display
 ==================
 
 Application to showcase the features of Retinal Display
