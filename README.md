@@ -1,7 +1,7 @@
 Retina Display
 ==================
 
-Application to showcase the features of Retinal Display
+Application to showcase the features of Retina Display
 
 Project Owner: Malla Nandikonda <Malla.Nandikonda@kony.com>
 
